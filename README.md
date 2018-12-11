@@ -1,8 +1,10 @@
 <h1 align="center">Bedrock Typings</h1>
-## TypeScript definitions for the Minecraft Bedrock Edition Scripting API
+<h2>TypeScript definitions for the Minecraft Bedrock Edition Scripting API</h2>
+
 This allows you to have code autocompletion in modern code editors (like Visual Studio Code) when working with the Minecraft Bedrock Edition Scripting language. All definitions were derived from the [official wiki](https://minecraft.gamepedia.com/Bedrock_Beta_Script_Documentation#Entity_Queries).
 
 ## Usage
+
 Download the `bedrock.d.ts` from this repo ([right click this and save-as](https://raw.githubusercontent.com/christopherwk210/bedrock-typings/master/bedrock.d.ts)) and put it into your current scripting project folder.
 
 Your project structure may look something like this:
